@@ -1,3 +1,6 @@
+
+// https://www.youtube.com/watch?v=-JwjHDG3b5U
+
 const input = document.querySelector("input");
 const resultats = document.querySelector(".resultats");
 
